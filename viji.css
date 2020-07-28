@@ -50,7 +50,7 @@
 {
  top: 30%;
  transform: translateY(50%);
- bottom: initial!important;
+ padding-bottom: 30px;
 }
 .carousel-caption h5
 {
