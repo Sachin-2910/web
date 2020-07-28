@@ -48,7 +48,7 @@
 }
 .carousel-caption
 {
- top: 60%;
+ top: 30%;
  transform: translateY(50%);
  bottom: initial!important;
 }
